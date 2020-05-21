@@ -1,0 +1,24 @@
+	<!-- <style> -->
+		<!-- #mapid { -->
+				<!-- width: 800px; -->
+				<!-- height: 800px; -->
+				<!-- border: 20px solid #ccc; -->
+			<!-- } -->
+	<!-- </style> -->
+
+</head>
+
+<body>
+<div id='app'></div>
+
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1Ijoic3RlYWx0aDk2IiwiYSI6ImNrOHdpZXJzeTAybG4zZm83c3Bhem1ieXEifQ.QLDnXvW8CNXiWXFOtxrN_Q'
+    var map = new mapboxgl.Map({
+        container: 'mapid', // container id
+        style: 'mapbox://styles/stealth96/ckaddkt490d1y1iqd7vqd4p5a', // stylesheet location
+		width: 300,
+		height: 300,
+        center: [-2.5495, 51.5008], // starting position [lng, lat]
+        zoom: 15.5// starting zoom
+    });
+</script>

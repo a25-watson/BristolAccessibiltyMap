@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/BristolAccessebilityMap/static/js/main.22c71f5e.chunk.js",
+    "main.js.map": "/BristolAccessebilityMap/static/js/main.22c71f5e.chunk.js.map",
+    "runtime-main.js": "/BristolAccessebilityMap/static/js/runtime-main.9358d86c.js",
+    "runtime-main.js.map": "/BristolAccessebilityMap/static/js/runtime-main.9358d86c.js.map",
+    "static/js/2.315c3a96.chunk.js": "/BristolAccessebilityMap/static/js/2.315c3a96.chunk.js",
+    "static/js/2.315c3a96.chunk.js.map": "/BristolAccessebilityMap/static/js/2.315c3a96.chunk.js.map",
+    "index.html": "/BristolAccessebilityMap/index.html",
+    "precache-manifest.feb6436d1c096c85bfbe2e31e2d83501.js": "/BristolAccessebilityMap/precache-manifest.feb6436d1c096c85bfbe2e31e2d83501.js",
+    "service-worker.js": "/BristolAccessebilityMap/service-worker.js",
+    "static/js/2.315c3a96.chunk.js.LICENSE.txt": "/BristolAccessebilityMap/static/js/2.315c3a96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9358d86c.js",
+    "static/js/2.315c3a96.chunk.js",
+    "static/js/main.22c71f5e.chunk.js"
+  ]
+}
